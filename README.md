@@ -1,4 +1,5 @@
 ### About me: 👋
+I am a young developer looking to expand my knowledge in different programming languages. :penguin:
 
 ## Keep in touch with me 😊
 <a href="mailto:medinavera.jose@gmail.com">
@@ -12,7 +13,7 @@
 
 ---
 
-- **Languages and Frameworks:**
+**Languages and Frameworks:**
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -38,3 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemedina1&layout=compact)](https://github.com/josemedina1/github-readme-stats)
 
 ---
+Credits: [José Medina]
+
+Last Edited on: 25/12/2023
