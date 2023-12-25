@@ -1,7 +1,7 @@
 ### About me: 👋
 
 ## Keep in touch with me 😊
-<a href="medinavera.jose@gmail.com">
+<a href="mailto:medinavera.jose@gmail.com">
 <img src="https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-medina-vera-8323a5b8/">
