@@ -37,16 +37,4 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemedina1&layout=compact)](https://github.com/josemedina1/github-readme-stats)
 
-  
-<table border="0" align="center">
-<tr border="0">
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josemedina1&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
 ---
