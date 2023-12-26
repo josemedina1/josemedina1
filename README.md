@@ -1,5 +1,10 @@
 ### About me: 👋
-I am a young developer looking to expand my knowledge in different programming languages. :penguin:
+I am a young developer looking to expand my knowledge in different programming languages. :penguin: .
+
+<a href="https://github.com/joselechuga">
+  <img src="https://img.shields.io/badge/Second-account-blue" />
+</a>
+
 
 ## Keep in touch with me 😊
 <a href="mailto:medinavera.jose@gmail.com">
@@ -11,9 +16,10 @@ I am a young developer looking to expand my knowledge in different programming l
 </a>
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-**Languages and Frameworks:**
+# Languages and Frameworks <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -34,7 +40,8 @@ I am a young developer looking to expand my knowledge in different programming l
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemedina1&layout=compact)](https://github.com/josemedina1/github-readme-stats)
 
@@ -42,3 +49,9 @@ I am a young developer looking to expand my knowledge in different programming l
 Credits: [José Medina]
 
 Last Edited on: 25/12/2023
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Banner GitHub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
